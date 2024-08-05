@@ -1,0 +1,11 @@
+property_order:
+  - id
+  - Number
+  - Name
+  - Текст
+  - Select
+  - Checkbox
+  - URL
+  - Date_start
+  - Date_end
+  - Multi-select
